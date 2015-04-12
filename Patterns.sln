@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Logging", "Patterns.Logging\Patterns.Logging.csproj", "{638CFBEF-E3C5-4802-B18B-65DE0A3D155D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.IO", "Patterns.IO\Patterns.IO.csproj", "{C368C663-B718-4061-A239-85E838438E14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{638CFBEF-E3C5-4802-B18B-65DE0A3D155D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{638CFBEF-E3C5-4802-B18B-65DE0A3D155D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{638CFBEF-E3C5-4802-B18B-65DE0A3D155D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C368C663-B718-4061-A239-85E838438E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C368C663-B718-4061-A239-85E838438E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C368C663-B718-4061-A239-85E838438E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C368C663-B718-4061-A239-85E838438E14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

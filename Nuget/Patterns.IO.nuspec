@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>Patterns.IO</id>
+        <version>1.0.0.2</version>
+        <title>Patterns.IO</title>
+        <authors>Emby Team</authors>
+        <owners>ebr,Luke,scottisafool</owners>
+        <projectUrl>https://github.com/MediaBrowser/Patterns</projectUrl>
+        <iconUrl>http://www.mb3admin.com/images/mb3icons1-1.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Contains simple File classes.</description>
+        <copyright>Copyright © Emby 2013</copyright>
+    </metadata>
+    <files>
+        <file src="dlls\Patterns.IO.dll" target="lib\portable-net45+sl4+wp71+win8+wpa81\Patterns.IO.dll" />
+    </files>
+</package>
