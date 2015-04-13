@@ -9,9 +9,9 @@ namespace Patterns.IO
         /// <value>The identifier.</value>
         public string Id { get; set; }
         /// <summary>
-        /// Gets or sets the file path.
+        /// Gets or sets the full path.
         /// </summary>
-        /// <value>The file path.</value>
-        public string FilePath { get; set; }
+        /// <value>The full path.</value>
+        public string[] FullPath { get; set; }
     }
 }
