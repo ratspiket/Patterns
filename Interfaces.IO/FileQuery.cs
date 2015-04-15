@@ -1,5 +1,5 @@
 ﻿
-namespace Patterns.IO
+namespace Interfaces.IO
 {
     public class FileQuery
     {

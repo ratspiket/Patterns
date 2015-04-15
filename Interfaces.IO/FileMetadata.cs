@@ -1,5 +1,5 @@
 ﻿
-namespace Patterns.IO
+namespace Interfaces.IO
 {
     public class FileMetadata
     {
@@ -9,15 +9,15 @@ namespace Patterns.IO
         /// <value>The name.</value>
         public string Name { get; set; }
         /// <summary>
-        /// Gets or sets the identifier.
-        /// </summary>
-        /// <value>The identifier.</value>
-        public string Id { get; set; }
-        /// <summary>
         /// Gets or sets the type of the MIME.
         /// </summary>
         /// <value>The type of the MIME.</value>
         public string MimeType { get; set; }
+        /// <summary>
+        /// Gets or sets the identifier.
+        /// </summary>
+        /// <value>The identifier.</value>
+        public string Id { get; set; }
         /// <summary>
         /// Gets or sets a value indicating whether this instance is folder.
         /// </summary>
